@@ -1,16 +1,31 @@
 # first_flutter_project_with_flutter_sukkur_bootcamp
 
-A new Flutter project.
+# My First Flutter App
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/7a0a8d37-eb7d-4641-b5df-ed8119683035">
+
+
+
+## Overview
+This project is my first Flutter application, created as part of the Flutter Sukkur BootCamp Phase 2. The objective was to replicate the design provided in the assignment brief.
+
+## Features
+- Replicates the design as per the provided image.
+- Consists of a structured layout using Flutter widgets.
+- Demonstrates usage of containers, rows, columns, and alignment properties.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+To run this project, you will need:
+- Flutter SDK
+- An editor such as VS Code or Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+## Code Structure
+- **lib/main.dart:** Entry point of the application.
+- **lib/home_screen.dart:** Contains the main screen of the app with the replicated design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Submission Details
+This GitHub repository contains the complete source code for my first Flutter application assignment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+If you have any questions or feedback, feel free to contact me at maryamfatimanavtcc@gmail.com.
